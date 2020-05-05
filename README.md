@@ -190,7 +190,7 @@ http://localhost/repositories/myOpenNewsArticleApi/public/api/news
 > Production or web server:
 To view a list of news articles
 ```
-http://your-domain/repositories/myOpenNewsArticleApi/public/api/news/23
+http://your-domain/repositories/myOpenNewsArticleApi/public/api/news
 ```
 
 
@@ -228,14 +228,9 @@ It will be most convenient and safe to deploy the application to a live server u
 * [Postman](https://getpostman.com/) - Used to test dummy-content API.
 
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/aowasiu/open-news-article-api/CONTRIBUTING.md) for details on code of conduct, and the process for submitting pull requests to us.
-
-
 ## Author
 
-* **Wasiu Adisa** - *Initial work* - [aowasiu](https://github.com/aowasiu)
+* **Wasiu Adisa** - [aowasiu](https://github.com/aowasiu)
 
 
 ## License
